@@ -3,3 +3,10 @@ numpy
 nltk
 spacy
 contextualSpellCheck
+tqdm
+scikit-learn
+transformers
+torch
+seaborn
+matplotlib
+ipython
