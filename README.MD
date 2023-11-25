@@ -21,11 +21,11 @@ Inside a **/data/** directory: <br />
 
 **Data Pre-processing** <br />
 Inside a **src/data_prep** directory: <br />
-    1. Inside an **/augmentation/** directory, you will find an implementation for the EDA augmentation technique. <br />  
+    1. Inside an **/augmentation/** directory, you will find an implementation for the EDA augmentation technique. <br /> 
     2. Inside an **/pre-processing/** directory, you will find an implementation for the data pre-processing and statistics. <br />
 
 
-**Training XLMR and DPCNN**
+**Training XLMR and DPCNN** <br />
 Inside a **src/training** directory: <br />
     1. You will find a code for XLMR fine-tuning and XLMR-DPCNN combination
 
