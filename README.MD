@@ -29,6 +29,8 @@ Inside a **src/data_prep** directory: <br />
 Inside a **src/training** directory: <br />
     1. You will find a code for XLMR fine-tuning and XLMR-DPCNN combination
 
+Model weights can be found here: https://mbzuaiac-my.sharepoint.com/:f:/g/personal/phu_hoang_mbzuai_ac_ae/EnUp-qlTpPRBoQ46ISjMqYsBT0mgsC4eOZT0Yw09f5_fJA?e=0pa0fn
+
  
 
 
