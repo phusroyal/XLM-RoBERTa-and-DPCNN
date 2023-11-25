@@ -1,0 +1,13 @@
+{
+    "#sents": 8534,
+    "#vocabs": 18257,
+    "#tokens": 163483,
+    "avg_sent_len": 19.156667447855636,
+    "labels_count_dict": {
+        "pos": "2319",
+        "neg": "2215",
+        "neu": "1623",
+        "very pos": "1287",
+        "very neg": "1090"
+    }
+}
