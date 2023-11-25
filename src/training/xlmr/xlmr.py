@@ -37,9 +37,9 @@ print(device)
 print('LOADING DATA...')
 
 #load data
-train_path = 'data/data-raw/train_raw.csv'
-dev_path = 'data/data-raw/dev_raw.csv'
-test_path = 'data/data-raw/test_raw.csv'
+train_path = 'data/original SST-5/train.csv'
+dev_path = 'data/original SST-5/dev.csv'
+test_path = 'data/original SST-5/test.csv'
 col_names = ['text', 'label']
 
 train_data = pd.read_csv(train_path, names=col_names, header=None)
