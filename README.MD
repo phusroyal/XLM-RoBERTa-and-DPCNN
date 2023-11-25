@@ -10,3 +10,9 @@
     pip install -r requirements.txt  <br />
 
 
+**Dataset** <br />
+In a **data** directory: <br />
+    1. You can find raw, augmented and pre-preprocessed SST-5 dataset. <br />
+    2. Moreover, we provide dataset statistics inside **statistics** folder. <br />
+    3. In addition, classification reports, confusion matrices and training history are provided inside **history** folder. <br />
+
